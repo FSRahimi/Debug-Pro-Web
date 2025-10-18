@@ -53,6 +53,17 @@ i18n
         contact_message: "Message",
         contact_send: "Send Message",
 
+        // Chatbot page
+        chatbot_title: "Chat with our Bot",
+        chatbot_greeting: "Hello! Ask me about privacy, telegram or email.",
+        chatbot_input_placeholder: "Type a message...",
+        chatbot_send: "Send",
+        chatbot_resp_privacy: "Protect your privacy: use strong passwords, 2FA and do not share sensitive info.",
+        chatbot_resp_telegram: "On Telegram enable two-step verification and use secret chats for sensitive conversations.",
+        chatbot_resp_email: "For email: enable 2FA, avoid phishing links and keep software updated.",
+        chatbot_resp_contact: "You can reach out via the Contact page form.",
+        chatbot_resp_unknown: "Sorry, I didn't understand. Try privacy, telegram, or email.",
+
         },
       },
       fa: {
@@ -103,6 +114,16 @@ i18n
             contact_email: "ایمیل",
             contact_message: "پیام",
             contact_send: "ارسال پیام",
+
+             chatbot_title: "گفتگو با ربات ما",
+            chatbot_greeting: "سلام! درباره حریم خصوصی، تلگرام یا ایمیل از من بپرسید.",
+            chatbot_input_placeholder: "پیام خود را تایپ کنید...",
+            chatbot_send: "ارسال",
+            chatbot_resp_privacy: "حریم خصوصی خود را محافظت کنید: از رمزهای قوی، 2FA استفاده کنید و اطلاعات حساس را به اشتراک نگذارید.",
+            chatbot_resp_telegram: "در تلگرام تأیید دو مرحله‌ای را فعال کنید و برای مکالمات حساس از چت‌های مخفی استفاده کنید.",
+            chatbot_resp_email: "برای ایمیل: 2FA را فعال کنید، از لینک‌های فیشینگ اجتناب کنید و نرم‌افزار خود را به‌روز نگه دارید.",
+            chatbot_resp_contact: "می‌توانید از طریق فرم صفحه تماس با ما با ما در ارتباط باشید.",
+            chatbot_resp_unknown: "متاسفم، متوجه نشدم. دوباره تلاش کنید: privacy، telegram یا email.",
                     
         },
       },
