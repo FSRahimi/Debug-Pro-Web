@@ -45,6 +45,14 @@ i18n
         email_tip3: "Avoid clicking suspicious links",
         email_tip4: "Regularly update your email password",
 
+         // Contact page
+        contact_title: "Contact",
+        contact_sent: "Message sent! We'll contact you soon.",
+        contact_name: "Your name",
+        contact_email: "Email",
+        contact_message: "Message",
+        contact_send: "Send Message",
+
         },
       },
       fa: {
@@ -87,6 +95,14 @@ i18n
             email_tip2: "فعال کردن تأیید دو مرحله‌ای (2FA)",
             email_tip3: "از کلیک روی لینک‌های مشکوک خودداری کنید",
             email_tip4: "رمز ایمیل خود را به‌طور منظم به‌روزرسانی کنید",
+
+                // Contact page
+            contact_title: "تماس با ما",
+            contact_sent: "پیام ارسال شد! به زودی با شما تماس خواهیم گرفت.",
+            contact_name: "نام شما",
+            contact_email: "ایمیل",
+            contact_message: "پیام",
+            contact_send: "ارسال پیام",
                     
         },
       },
