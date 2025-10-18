@@ -18,6 +18,13 @@ i18n
             nav_contact: "Contact",
              switch_lang: "تغییر به فارسی",
 
+             // footer 
+             footer_all_rights: "All rights reserved.",
+            footer_privacy: "Privacy Policy",
+            footer_terms: "Terms of Service",
+            footer_contact: "Contact",
+            footer_built_with: "Built with ❤️ by the DigitalSafe Team",
+
           // Home page
           digital_safety: "Digital Safety for Afghan Women",
           learn_privacy_tips: "Learn essential tips to protect your privacy and security online.",
@@ -88,7 +95,14 @@ i18n
             nav_chatbot: "چت با ربات",
             nav_contact: "تماس با ما",
              switch_lang: "Switch to English",
-            
+             
+             //footer 
+             footer_all_rights: "تمامی حقوق محفوظ است.",
+            footer_privacy: "سیاست حفظ حریم خصوصی",
+            footer_terms: "شرایط استفاده",
+            footer_contact: "تماس با ما",
+            footer_built_with: "ساخته شده با ❤️ توسط تیم DigitalSafe",
+                    
           // Home page
           digital_safety: "امنیت دیجیتال برای زنان افغان",
           learn_privacy_tips: "یاد بگیرید چگونه حریم خصوصی و امنیت خود را آنلاین حفظ کنید.",
