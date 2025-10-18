@@ -8,6 +8,16 @@ i18n
     resources: {
       en: {
         translation: {
+
+        // navagation nav_home: "Home",
+            nav_services: "Services",
+            nav_about: "About",
+            nav_email: "Email Security",
+            nav_faq: "FAQ",
+            nav_chatbot: "Chatbot",
+            nav_contact: "Contact",
+             switch_lang: "تغییر به فارسی",
+
           // Home page
           digital_safety: "Digital Safety for Afghan Women",
           learn_privacy_tips: "Learn essential tips to protect your privacy and security online.",
@@ -68,6 +78,17 @@ i18n
       },
       fa: {
         translation: {
+
+        // navegation 
+            nav_home: "خانه",
+            nav_services: "خدمات",
+            nav_about: "درباره ما",
+            nav_email: "امنیت ایمیل",
+            nav_faq: "سوالات متداول",
+            nav_chatbot: "چت با ربات",
+            nav_contact: "تماس با ما",
+             switch_lang: "Switch to English",
+            
           // Home page
           digital_safety: "امنیت دیجیتال برای زنان افغان",
           learn_privacy_tips: "یاد بگیرید چگونه حریم خصوصی و امنیت خود را آنلاین حفظ کنید.",
