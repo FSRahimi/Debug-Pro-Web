@@ -5,3 +5,13 @@
 :root { --brand: #4f46e5; }
 
 body { font-family: 'Inter', sans-serif; }
+body[dir="rtl"] {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Vazir', sans-serif;
+}
+
+body[dir="ltr"] {
+  direction: ltr;
+  text-align: left;
+}
