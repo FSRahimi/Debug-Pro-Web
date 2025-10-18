@@ -9,6 +9,8 @@ import EmailSecurity from './pages/EmailSecurity'
 import FAQ from './pages/FAQ'
 import Chatbot from './pages/Chatbot'
 import Contact from './pages/Contact'
+import './i18n/i18n'; // اضافه کردن تنظیمات ترجمه
+
 
 export default function App(){
   return (
