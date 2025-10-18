@@ -44,11 +44,11 @@ export default function Home(){
               {t('our_services')}
             </button>
           </div>
-          <button 
+          {/* <button 
             onClick={() => i18n.changeLanguage(i18n.language === 'fa' ? 'en' : 'fa')} 
             className="mt-4 px-4 py-2 border rounded-lg">
             {i18n.language === 'fa' ? 'Switch to English' : 'تغییر به فارسی'}
-          </button>
+          </button> */}
         </div>
         <div className="md:w-1/2">
           <img src="https://i.ibb.co/4P1H7Qw/afghan-women.png" alt="afghan women" className="rounded-xl shadow-lg w-full" />
