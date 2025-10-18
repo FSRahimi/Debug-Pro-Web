@@ -10,6 +10,7 @@ i18n
         translation: {
 
         // navagation nav_home: "Home",
+            nav_home: "Home",
             nav_services: "Services",
             nav_about: "About",
             nav_email: "Email Security",
