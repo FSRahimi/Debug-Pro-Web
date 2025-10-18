@@ -56,13 +56,13 @@ i18n
         service_email_desc: "Email hygiene and two-factor authentication.",
         learn_more: "Learn more",
 
-            // EmailSecurity page
-        email_title: "Email Security",
-        email_tip1: "Use strong unique passwords",
-        email_tip2: "Enable two-factor authentication (2FA)",
-        email_tip3: "Avoid clicking suspicious links",
-        email_tip4: "Regularly update your email password",
-
+      // EmailSecurity page
+            email_title: "Email Security",
+            email_tip1: "Use strong unique passwords",
+            email_tip2: "Enable two-factor authentication (2FA)",
+            email_tip3: "Avoid clicking suspicious links",
+            email_tip4: "Regularly update your email password",
+            
          // Contact page
         contact_title: "Contact",
         contact_sent: "Message sent! We'll contact you soon.",

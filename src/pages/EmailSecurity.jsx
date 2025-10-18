@@ -13,11 +13,11 @@
 //     </section>
 //   )
 // }
-  import React from 'react'
+import React from 'react'
 import { useTranslation } from 'react-i18next'
 
-export default function EmailSecurity(){
-  const { t, i18n } = useTranslation()
+export default function EmailSecurity() {
+  const { t } = useTranslation()
 
   const tips = [
     t('email_tip1'),
@@ -27,14 +27,14 @@ export default function EmailSecurity(){
   ]
 
   return (
-    <section className="py-20" dir={i18n.language === 'fa' ? 'rtl' : 'ltr'}>
+    <section className="py-20">
       <div className="max-w-4xl mx-auto px-4">
         <h2 className="text-3xl font-bold mb-6">{t('email_title')}</h2>
         <ul className="space-y-3">
-          {tips.map((t, i) => (
+          {tips.map((tip, i) => (
             <li key={i} className="flex items-center gap-3">
               <span className="text-green-600">✅</span>
-              <span className="text-gray-700">{t}</span>
+              <span className="text-gray-700">{tip}</span>
             </li>
           ))}
         </ul>
