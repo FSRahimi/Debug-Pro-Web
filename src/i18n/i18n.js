@@ -38,6 +38,13 @@ i18n
         service_email_desc: "Email hygiene and two-factor authentication.",
         learn_more: "Learn more",
 
+            // EmailSecurity page
+        email_title: "Email Security",
+        email_tip1: "Use strong unique passwords",
+        email_tip2: "Enable two-factor authentication (2FA)",
+        email_tip3: "Avoid clicking suspicious links",
+        email_tip4: "Regularly update your email password",
+
         },
       },
       fa: {
@@ -73,7 +80,14 @@ i18n
             service_email: "ایمیل",
             service_email_desc: "بهداشت ایمیل و تأیید دو مرحله‌ای.",
             learn_more: "بیشتر بدانید",
-            
+
+            // EmailSecurity page
+            email_title: "امنیت ایمیل",
+            email_tip1: "استفاده از رمزهای قوی و منحصربه‌فرد",
+            email_tip2: "فعال کردن تأیید دو مرحله‌ای (2FA)",
+            email_tip3: "از کلیک روی لینک‌های مشکوک خودداری کنید",
+            email_tip4: "رمز ایمیل خود را به‌طور منظم به‌روزرسانی کنید",
+                    
         },
       },
     },
