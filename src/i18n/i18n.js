@@ -26,6 +26,17 @@ i18n
         faq_a2: "Use secret chats, enable two-step verification, and check forwarding settings.",
         faq_q3: "How to secure email?",
         faq_a3: "Use unique passwords, 2FA, and be careful with links and attachments.",
+        // Services page
+        services_title: "Our Services",
+        service_passwords: "Passwords",
+        service_passwords_desc: "Create and manage strong unique passwords.",
+        service_social_media: "Social Media",
+        service_social_media_desc: "Secure your social media accounts and privacy.",
+        service_telegram: "Telegram",
+        service_telegram_desc: "Protect your Telegram chats and settings.",
+        service_email: "Email",
+        service_email_desc: "Email hygiene and two-factor authentication.",
+        learn_more: "Learn more",
 
         },
       },
@@ -49,9 +60,20 @@ i18n
            faq_q2: "آیا تلگرام ایمن است؟",
            faq_a2: "چت‌های مخفی را استفاده کنید، تأیید دو مرحله‌ای را فعال کنید و تنظیمات فوروارد را بررسی کنید.",
            faq_q3: "چگونه ایمیل خود را ایمن کنم؟",
-          faq_a3: "از رمزهای منحصربه‌فرد استفاده کنید، تأیید دو مرحله‌ای را فعال کنید و مراقب لینک‌ها و فایل‌های پیوست باشید.",
-
-
+           faq_a3: "از رمزهای منحصربه‌فرد استفاده کنید، تأیید دو مرحله‌ای را فعال کنید و مراقب لینک‌ها و فایل‌های پیوست باشید.",
+            
+           // Services page
+            services_title: "خدمات ما",
+            service_passwords: "رمزهای عبور",
+            service_passwords_desc: "ایجاد و مدیریت رمزهای عبور قوی و منحصربه‌فرد.",
+            service_social_media: "شبکه‌های اجتماعی",
+            service_social_media_desc: "حساب‌ها و حریم خصوصی شبکه‌های اجتماعی خود را ایمن کنید.",
+            service_telegram: "تلگرام",
+            service_telegram_desc: "چت‌ها و تنظیمات تلگرام خود را محافظت کنید.",
+            service_email: "ایمیل",
+            service_email_desc: "بهداشت ایمیل و تأیید دو مرحله‌ای.",
+            learn_more: "بیشتر بدانید",
+            
         },
       },
     },
