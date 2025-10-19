@@ -40,7 +40,7 @@ export default function Navbar(){
         <li><Link to="/" className="hover:underline">{t('nav_home')}</Link></li>
         <li><Link to="/services" className="hover:underline">{t('nav_services')}</Link></li>
         <li><Link to="/about" className="hover:underline">{t('nav_about')}</Link></li>
-        <li><Link to="/email" className="hover:underline">{t('nav_email')}</Link></li>
+        <li><Link to="/email-security" className="hover:underline">{t('nav_email')}</Link></li>
         <li><Link to="/faq" className="hover:underline">{t('nav_faq')}</Link></li>
         <li><Link to="/chatbot" className="hover:underline">{t('nav_chatbot')}</Link></li>
         <li><Link to="/contact" className="hover:underline">{t('nav_contact')}</Link></li>
