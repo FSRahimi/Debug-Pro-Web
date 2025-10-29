@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "emailSecurity": "Email Security",
+    "faq": "FAQ",
+    "chatbot": "Chatbot",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Digital Safety for Afghan Women",
+    "subtitle": "Learn essential tips to protect your privacy and security online.",
+    "chatButton": "Chat with Bot",
+    "servicesButton": "Our Services",
+    "imageAlt": "Afghan Woman learning online safety"
+  },
+  "services": {
+    "heading": "Our Services",
+    "learnMore": "Learn more",
+    "passwords": {
+      "title": "Passwords",
+      "desc": "Create and manage strong, unique passwords safely."
+    },
+    "socialMedia": {
+      "title": "Social Media",
+      "desc": "Secure your social media accounts and protect your privacy."
+    },
+    "telegram": {
+      "title": "Telegram",
+      "desc": "Protect your Telegram chats and account settings from threats."
+    },
+    "email": {
+      "title": "Email",
+      "desc": "Improve your email security with two-factor authentication."
+    }
+  },
+  "about": {
+    "heading": "About DigitalSafe",
+    "desc": "DigitalSafe helps Afghan women stay safe online with practical tips, workshops, and learning resources.",
+    "features": {
+      "privacy": "Privacy First",
+      "privacyDesc": "Learn how to manage your personal data and protect your online privacy.",
+      "messaging": "Secure Messaging",
+      "messagingDesc": "Tips for safe use of messaging apps like Telegram and WhatsApp.",
+      "email": "Email Safety",
+      "emailDesc": "Protect your email accounts with strong passwords and two-factor authentication.",
+      "literacy": "Digital Literacy",
+      "literacyDesc": "Learn the fundamentals of safe online behavior and digital skills."
+    },
+    "cta": "Ready to secure your digital life? Start exploring our services today!",
+    "ctaButton": "Explore Services"
+  },
+  "emailSecurity": {
+    "heading": "Email Security",
+    "desc": "Protecting your email is crucial for your online safety. Follow these tips to stay secure.",
+    "tips": [
+      "Use strong unique passwords",
+      "Enable two-factor authentication (2FA)",
+      "Avoid clicking suspicious links",
+      "Regularly update your email password"
+    ],
+    "additionalHeading": "Additional Tips",
+    "additionalTips": [
+      "Beware of phishing emails and verify senders carefully",
+      "Use encrypted email services when possible",
+      "Regularly review account activity and security settings",
+      "Do not reuse your email password on other accounts"
+    ],
+    "cta": "Stay proactive about your email security to protect your personal information online.",
+    "ctaButton": "Learn More Security Tips"
+  },
+   "faq": {
+    "heading": "FAQ",
+    "desc": "Find answers to common questions about digital safety for Afghan women.",
+    "items": [
+      { "q": "How can I protect my online privacy?", "a": "Use strong passwords, enable 2FA, and avoid sharing personal info." },
+      { "q": "Is Telegram safe?", "a": "Use secret chats, enable two-step verification, and check forwarding settings." },
+      { "q": "How to secure email?", "a": "Use unique passwords, 2FA, and be careful with links and attachments." },
+      { "q": "How can I detect phishing emails?", "a": "Check sender email addresses, avoid suspicious links, and verify messages." },
+      { "q": "What are secure password practices?", "a": "Use long, unique passwords with symbols, numbers, and letters." }
+    ],
+    "cta": "Have more questions? Feel free to reach out to us!",
+    "ctaButton": "Contact Us"
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "desc": "Have questions or suggestions? Send us a message and we’ll get back to you.",
+    "name": "Your Name",
+    "email": "Your Email",
+    "message": "Your Message",
+    "sendButton": "Send Message",
+    "sentMessage": "Message sent! We'll contact you soon.",
+    "emailInfo": "Email: support@digitalsafe.com",
+    "phoneInfo": "Phone: +93 700 000 000"
+  },
+   "footer": {
+    "builtWith": "Built with 💜 by the",
+    "team": "DigitalSafe Team"
+  },
+
+   "chatbot": {
+    "heading": "Chat with our Bot",
+    "description": "Ask questions about privacy, Telegram, email, or social media security.",
+    "welcome": "Hello! Ask me about privacy, telegram, email, or social media.",
+    "inputPlaceholder": "Type a message...",
+    "sendButton": "Send",
+    "tryQuestions": "Try asking:",
+    "quickButtons": {
+      "privacy": "Privacy",
+      "telegram": "Telegram",
+      "email": "Email",
+      "social": "Social Media",
+      "contact": "Contact"
+    },
+    "responses": {
+      "privacy": "Protect your privacy: use strong passwords, 2FA, and avoid sharing sensitive info.",
+      "telegram": "On Telegram, enable two-step verification and use secret chats for sensitive conversations.",
+      "email": "For email: enable 2FA, avoid phishing links, and keep software updated.",
+      "social": "For social media: adjust privacy settings, use strong passwords, and limit shared info.",
+      "contact": "You can reach out via the Contact page form.",
+      "default": "Sorry, I didn't understand. Try privacy, telegram, email, or social media."
+    }
+  }
+}
