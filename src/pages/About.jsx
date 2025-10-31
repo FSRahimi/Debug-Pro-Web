@@ -87,7 +87,7 @@ export default function About() {
             <h3 className="text-[#FFD166] font-semibold text-xl mb-2">{t('about.features.messaging')}</h3>
             <p className="text-[#F8BBD0]">{t('about.features.messagingDesc')}</p>
           </div>
-
+    
           <div className="bg-[#6A1B9A] rounded-xl p-6 shadow-lg hover:shadow-2xl transform hover:scale-105 transition duration-300 text-center">
             <h3 className="text-[#FFD166] font-semibold text-xl mb-2">{t('about.features.email')}</h3>
             <p className="text-[#F8BBD0]">{t('about.features.emailDesc')}</p>
