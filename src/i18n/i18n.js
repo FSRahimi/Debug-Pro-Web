@@ -45,6 +45,6 @@ i18n
     lng: 'fa', // زبان پیش‌فرض
     fallbackLng: 'en',
     interpolation: { escapeValue: false }
-  });
+  }); 
 
-export default i18n;
+export default i18n;  
